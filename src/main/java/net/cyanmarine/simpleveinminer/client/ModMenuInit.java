@@ -2,7 +2,7 @@ package net.cyanmarine.simpleveinminer.client;
 
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
-import me.lortseam.completeconfig.gui.cloth.ClothConfigScreenBuilder;
+import dev.isxander.yacl3.api.YaclScreen.gui.ClothConfigScreenBuilder;
 import net.cyanmarine.simpleveinminer.SimpleVeinminer;
 import net.cyanmarine.simpleveinminer.gui.ScreenBuilderType;
 
